@@ -1,6 +1,6 @@
 #LAB 2-1
 
-def classify_age():
+def classify_age(age):
     #Child
     if age <= 12:
         print("You are a Child.")
