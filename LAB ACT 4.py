@@ -1,6 +1,6 @@
 #LAB 2-2
 
-def check_number():
+def check_number(num):
     if num > 0:
         if num % 2 == 0:
             print("Positive Even Number")
